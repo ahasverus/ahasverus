@@ -1,3 +1,3 @@
 ### 👋 Hi, I'm Nicolas
 
-I'm a 🇫🇷 data scientist at the Centre for the Synthesis and Analysis of Biodiversity ([CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/)), a key program of the French Foundation for Biodiversity Research ([FRB](https://www.fondationbiodiversite.fr/en/)).
+I'm a 🇫🇷 data scientist at the Centre for the Synthesis and Analysis of Biodiversity ([CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/)), a key program of the French Foundation for Biodiversity Research ([FRB](https://www.fondationbiodiversite.fr/en/)). My job is to help CESAB [working groups](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/) to develop the methodological tools best suited to their research issues. I'm also in charge of the CESAB’s [training programme](https://frbcesab.github.io/training-courses) and the CESAB’s [GitHub](https://github.com/frbcesab).
