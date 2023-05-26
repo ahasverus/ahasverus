@@ -1,3 +1,3 @@
-Welcome :wave:
+:wave: Hi, I'm Nicolas
 
-My name is Nicolas Casajus and I'm a :fr: data scientist working at the French Foundation for Research on Biodiversity - [FRB](https://www.fondationbiodiversite.fr/en/).
+I'm a 🇫🇷 data scientist at the Centre for the Synthesis and Analysis of Biodiversity ([CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/)), a key program of the French Foundation for Biodiversity Research ([FRB](https://www.fondationbiodiversite.fr/en/))
